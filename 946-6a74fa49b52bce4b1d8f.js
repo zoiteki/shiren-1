@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkshiren_the_wanderer_wiki=self.webpackChunkshiren_the_wanderer_wiki||[]).push([[946],{9946:function(e,r,i){i.r(r);i(6540);var d=i(7437);r.default=()=>(0,d.Y)("div",{style:{padding:"1rem"}},(0,d.Y)("input",{type:"text",placeholder:"Search...",style:{padding:"0.5rem",border:"1px solid #ccc",borderRadius:"4px",width:"100%"}}))}}]);
+//# sourceMappingURL=946-6a74fa49b52bce4b1d8f.js.map
