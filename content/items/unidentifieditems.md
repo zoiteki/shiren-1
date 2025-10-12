@@ -1,4 +1,12 @@
-Found this list of un-id items but this doesnt feel like it's fully accurate
+---
+title: "Unidentified Items"
+metaTitle: "Unidentified Items - Shiren 1 Wiki"
+metaDescription: "Unidentified Items list for Shiren the Wanderer"
+---
+
+In development.
+
+Found this list of un-id items but this doesn't feel like it's fully accurate.
 
 Red Herb
 Blue Herb
