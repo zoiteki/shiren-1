@@ -63,8 +63,8 @@ export default IndexPage;
 export const Head = () => {
   return (
     <>
-      <title>Shiren 1 SFC</title>
-      <meta name="description" content="Landing page of Shiren 1 SFC wiki" />
+      <title>Shiren the Wanderer wiki</title>
+      <meta name="description" content="Shiren the Wanderer wiki guide" />
     </>
   );
 };

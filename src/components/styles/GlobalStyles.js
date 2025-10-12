@@ -339,9 +339,6 @@ export const baseStyles = css`
   .socialWrapper li a {
     display: contents;
   }
-  .twitterBtn img {
-    width: 12px !important;
-  }
   /* Header section ends here */
   .sidebarTitle {
     /* box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16); */
