@@ -150,7 +150,7 @@ Now that we are inside: you will notice the hallway will reduce your vision to o
 what is next to you. This also applies to enemies!
 
 The difficultly will start to increase. If you farmed extra experience earlier,
-it will pay off. You can farm for Gitan from Gamagucchi, items from Thief Todo,
+it will pay off. You can farm for Gitan from Gamagucchi, items from Theftodo,
 and Skeleton Mage Staffs from Skeleton Mages.
 
 There are some Advanced Techniques for farming arrows from Kid Tanks.
@@ -174,8 +174,8 @@ can be thrown through other enemies, and over walls.
 twice, move and shoot. It cannot shoot Shiren if it is right next to him. Somewhat
 dangerous to fight out in the open. If you lure them into a hallway, they are harmless.
 
-![thief todo](../images/monsters/todo_1.png)
-**Thief Todo** is another enemy that does not attack and will attempt to steal from
+![Theftodo](../images/monsters/todo_1.png)
+**Theftodo** is another enemy that does not attack and will attempt to steal from
 Shiren. It will either steal an unequipped item from Shiren's inventory, or an item
 off the ground. If it dies before it manages to steal an item, it is guaranteed to
 drop an item from from a large item pool, otherwise it will drop the item it has
@@ -295,7 +295,7 @@ if you have a bad shield (e.g. Minotaur can crit for ~80 damage if you're runnin
 around with a Leather Shield).
 
 You can also hunt for Fleeing Peetan, which always drop a Large Rice Ball, or Green
-Thief Todo, which always drop an item.
+Theftodo, which always drop an item.
 
 Until you're strong enough to fight them unaided, great spot to use some Scrolls,
 Staves, or Dragon Herbs. If you have a Bigroom Scroll, combined with a few Airslash
@@ -331,7 +331,7 @@ are the only enemy that are invisible.
 **Fleeing Peetan** is an upgraded Peetan. Will always drop a Big Rice Ball.
 
 ![Green Todo](../images/monsters/todo_2.png)
-**Green Todo** is just like a Thief Todo, it also has a chance to
+**Green Todo** is just like a Theftodo, it also has a chance to
 multiply when damaged.
 
 ### Table Mountain (20-22F)
@@ -654,7 +654,7 @@ Numbers in parentheses are spawn rates (#)/256.<br>(TODO: Spawn Rates are incomp
       <td class="mid"><img src="../images/monsters/debuta_1.png"/> Debuta (53)</td>
       <td class="mid"><img src="../images/monsters/death_1.png"/> Minion of Death (52)</td>
       <td class="low"><img src="../images/monsters/gamara_2.png"/> Gamagucchi (7)</td>
-      <td class="low"><img src="../images/monsters/todo_1.png"/> Thief Todo (13)</td>
+      <td class="low"><img src="../images/monsters/todo_1.png"/> Theftodo (13)</td>
       <td class=""></td>
     </tr>
     <tr>
@@ -675,7 +675,7 @@ Numbers in parentheses are spawn rates (#)/256.<br>(TODO: Spawn Rates are incomp
       <td class="mid"><img src="../images/monsters/debuta_1.png"/> Debuta (53)</td>
       <td class="mid"><img src="../images/monsters/death_1.png"/> Minion of Death (52)</td>
       <td class="low"><img src="../images/monsters/gamara_2.png"/> Gamagucchi (7)</td>
-      <td class="low"><img src="../images/monsters/todo_1.png"/> Thief Todo (13)</td>
+      <td class="low"><img src="../images/monsters/todo_1.png"/> Theftodo (13)</td>
       <td class=""></td>
     </tr>
     <tr>
@@ -705,7 +705,7 @@ Numbers in parentheses are spawn rates (#)/256.<br>(TODO: Spawn Rates are incomp
       <td class="mid"><img src="../images/monsters/bow_3.png"/> Kid Tank (43)</td>
       <td class="mid"><img src="../images/monsters/debuta_1.png"/> Debuta (53)</td>
       <td class="low"><img src="../images/monsters/gamara_2.png"/> Gamagucchi (6)</td>
-      <td class="low"><img src="../images/monsters/todo_1.png"/> Thief Todo (12)</td>
+      <td class="low"><img src="../images/monsters/todo_1.png"/> Theftodo (12)</td>
     </tr>
     <tr>
       <td class="mid"><img src="../images/monsters/flame_priest_1.png"/>Flame Priest (43)</td>
@@ -731,7 +731,7 @@ Numbers in parentheses are spawn rates (#)/256.<br>(TODO: Spawn Rates are incomp
     <tr>
       <td class="low"><img src="../images/monsters/ant_1.png"/> Soldier Ant (7)</td>
       <td class="low"><img src="../images/monsters/gamara_2.png"/> Gamagucchi (6)</td>
-      <td class="low"><img src="../images/monsters/todo_1.png"/> Thief Todo (12)</td>
+      <td class="low"><img src="../images/monsters/todo_1.png"/> Theftodo (12)</td>
       <td class="mid"><img src="../images/monsters/flame_priest_1.png"/> Flame Priest (60)</td>
       <td class="low"><img src="../images/monsters/kigni_tribe_1.png"/> Kigni Tribe (15)</td>
     </tr>
@@ -754,7 +754,7 @@ Numbers in parentheses are spawn rates (#)/256.<br>(TODO: Spawn Rates are incomp
       <td class="mid"><img src="../images/monsters/norojo_1.png"/> Norojo (61)</td>
       <td class="low"><img src="../images/monsters/ant_1.png"/> Soldier Ant (7)</td>
       <td class="low"><img src="../images/monsters/gamara_2.png"/> Gamagucchi (6)</td>
-      <td class="low"><img src="../images/monsters/todo_1.png"/> Thief Todo (12)</td>
+      <td class="low"><img src="../images/monsters/todo_1.png"/> Theftodo (12)</td>
       <td class="mid"><img src="../images/monsters/flame_priest_1.png"/> Flame Priest (60)</td>
     </tr>
     <tr>
@@ -781,7 +781,7 @@ Numbers in parentheses are spawn rates (#)/256.<br>(TODO: Spawn Rates are incomp
     <tr>
       <td class="low"><img src="../images/monsters/ant_1.png"/> Soldier Ant (7)</td>
       <td class="low"><img src="../images/monsters/gamara_2.png"/> Gamagucchi (6)</td>
-      <td class="low"><img src="../images/monsters/todo_1.png"/> Thief Todo (12)</td>
+      <td class="low"><img src="../images/monsters/todo_1.png"/> Theftodo (12)</td>
       <td class="low"><img src="../images/monsters/kigni_tribe_1.png"/> Kigni Tribe (15)</td>
       <td class=""></td>
     </tr>
@@ -801,7 +801,7 @@ Numbers in parentheses are spawn rates (#)/256.<br>(TODO: Spawn Rates are incomp
     </tr>
     <tr>
       <td class="low"><img src="../images/monsters/gamara_2.png"/> Gamagucchi (6)</td>
-      <td class="low"><img src="../images/monsters/todo_1.png"/> Thief Todo (12)</td>
+      <td class="low"><img src="../images/monsters/todo_1.png"/> Theftodo (12)</td>
       <td class=""></td>
       <td class=""></td>
       <td class=""></td>

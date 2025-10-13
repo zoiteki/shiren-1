@@ -214,9 +214,9 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>🟡</td>
-      <td class="leftText">When pressed, a Thief Todo will shoot out in a straight
+      <td class="leftText">When pressed, a Theftodo will shoot out in a straight
       line and grab 1 item it touches and places it into the pot. If broken or Withdrawn,
-      a number of Thief Todos will appear.</td>
+      a number of Theftodos will appear.</td>
     </tr>
     <tr class="highlightLightblue">
       <td class="priceTableName">Monster Pot</td>

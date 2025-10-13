@@ -1991,9 +1991,9 @@ Speed:
   </tr>
 </table>
 
-### Thief todo
+### Theftodo
 
-![Thief todo](../images/monsters/todo_1.png)
+![Theftodo](../images/monsters/todo_1.png)
 ![Green todo](../images/monsters/todo_2.png)
 ![Iron todo](../images/monsters/todo_3.png)
 
@@ -2011,7 +2011,7 @@ Speed:
   </tr>
   <tr>
     <td>1</td>
-    <td>Thief todo</td>
+    <td>Theftodo</td>
     <td>ぬすっトド</td>
     <td>35</td>
     <td>20</td>
