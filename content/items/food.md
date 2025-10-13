@@ -6,7 +6,7 @@ metaDescription: "Food details for Shiren the Wanderer"
 
 ## Overview
 
-- Food items replenish fullness.
+- Food items recover Satiation.
 
 ## Food List
 
@@ -36,7 +36,8 @@ metaDescription: "Food details for Shiren the Wanderer"
       <td>✅</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Restores 50 Satiation. If full, increases Max Satiation by 1.</td>
+      <td class="leftText">Restores 50 Satiation. If full, increases Max Satiation
+      by 1.</td>
     </tr>
     <tr>
       <td class="priceTableName">Big Rice Ball</td>

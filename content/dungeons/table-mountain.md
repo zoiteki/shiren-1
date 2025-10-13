@@ -397,7 +397,7 @@ spell can stack, with multiple instances of the spell causing Shiren's HP to dec
 
 ![Dancing Polygon](../images/monsters/polygon_2.png)
 **Dancing Polygon** can perform a strange dance that causes Shiren to lose 30% of
-his current fullness. When it is in a room with Shiren, it will teleport to be in
+his current satiation. When it is in a room with Shiren, it will teleport to be in
 front of Shiren always. Extremely dangerous if you are lacking in food.
 
 ![Chrome Armor](../images/monsters/armor_2.png)

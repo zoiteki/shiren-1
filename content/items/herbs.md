@@ -7,8 +7,8 @@ metaDescription: "Herb details for Shiren the Wanderer"
 ## Overview
 
 - Use an herb or seed item to apply the item's effect to Shiren.
-  - In addition, most herb and seed items replenish 5 fullness.
-- Throw an herb or seed item at a creature to apply the item's effect to that creature.
+  - All herb and seed items replenish 5 satiation.
+- Throw an herb/seed item at a creature to apply the item's effect to that creature.
 
 ## Herb List
 

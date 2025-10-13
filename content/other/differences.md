@@ -4,19 +4,15 @@ metaTitle: "Differences - Shiren 1 Wiki"
 metaDescription: "Differences between the SFC version and other versions of Shiren the Wanderer"
 ---
 
+// In Development
+
 This guide specifically covers information for Mystery Dungeon 2: Shiren the Wanderer
-for the Super Famicom. I wanted to create this guide because I became fascinated
-by this game after watching my friend dot_lvl play it. I became a little frustrated
-because all of the information available in English was specific to the DS version,
-or just unavailable.
-
-Even in various Twitch chats and Discord servers, people would answer questions
-specific the Super Famicom version of the game, only to be wrong because they were
-only familiar with the DS version and they were unaware how different the games were.
-
-The changes are pretty significant. Strategies employed 
+for the Super Famicom. There are pretty significant differences between the two,
+and there wasn't an English resource available.
 
 ## List of Known Differences
+
+In Development
 
 #### New Dungeons
 
@@ -47,13 +43,14 @@ only have the new enemies been added in, but shuffled around existing enemies.
 
 #### Damage Calculations
 
-The damage Calculations are different. In SFC, Shield Strength was valued higher
-as the damage calculation appeared to have an expoential relationship with the damage
-you receive, and after a point Sword Strength starts to plateau.
+The damage Calculations are different. In terms of calculating damage on a 0 defense
+target, the games seem to be roughly equivalent.
 
-In the DS version, the Sword Strength / Shield Strength relationship largely seems
-to be linearly proportional to the damage output.
+In Shiren SFC, Defense / Shield Strength had an exponential relationship with the
+damage  
+DMG = ATK*(15/16)^DEF
+
+In Shiren DS, it **feels** less pronounced, almost linear (I don't have extensive
+knowledge so I'm not sure).
 
 #### New Items
-
-New Items

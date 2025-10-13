@@ -1,5 +1,7 @@
 ---
-title: "Experience Points"
-metaTitle: "EXP - Shiren 1 Wiki"
-metaDescription: "EXP Table for Shiren the Wanderer"
+title: "Damage"
+metaTitle: "Damage - Shiren 1 Wiki"
+metaDescription: "Damage Calculation info for Shiren the Wanderer"
 ---
+
+In development

@@ -8,10 +8,6 @@ metaDescription: "Arrow Details for Shiren the Wanderer"
 
 - Projectiles are used to attack enemies from a distance.
 
-WoodArrow
-IronArrow
-SilverArrow
-
 ## Arrow List
 
 <table class="itemListCentered">
@@ -69,4 +65,3 @@ SilverArrow
     </tr>
   </tbody>
 </table>
-
