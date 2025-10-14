@@ -136,7 +136,7 @@ the target monster to advance in level.
 **Skeleton Mage** will cast random spells at Shiren. Spell list: Swift, Knockback,
 Swap, and Teleport.
 
-It only drops a Skeleton Mage staff, which is more useful then it seems, especially
+It only drops a Skeleton Mage staff, which is more useful than it seems, especially
 in some of the upcoming floors.
 
 ![minion of death](../images/monsters/death_1.png)
@@ -151,7 +151,7 @@ what is next to you. This also applies to enemies!
 
 The difficultly will start to increase. If you farmed extra experience earlier,
 it will pay off. You can farm for Gitan from Gamagucchi, items from Theftodo,
-and Skeleton Mage Staffs from Skeleton Mages.
+and Skeleton Mage Staves from Skeleton Mages.
 
 There are some Advanced Techniques for farming arrows from Kid Tanks.
 
@@ -184,7 +184,9 @@ stolen.
 🐛: There is a bug in the Shiren Fan Translation where it will say that an Arrow
 was stolen, regardless what was actually stolen. Perceptive players will be able
 to see the sprite of the item that was stolen with the Todo as it is teleporting
-away, or can check their inventory for missing items.
+away, or can check their inventory for missing items. Using the Name command may
+change this text string; renaming an unidentified staff to "BT," for example, 
+sometimes causes the message to read "Stole Arrow:BT!"
 
 ### Two Jizo Valley
 
@@ -223,7 +225,7 @@ equipped shield.
 attack than other enemies. It will burn up any items thrown at it, making them ineffective,
 and if hit with an explosion, it will multiply.
 
-Somewhat dangerous, but staves are effective against it, if you got a Skeleton Mage
+Somewhat dangerous, but staves are effective against it. If you got a Skeleton Mage
 Staff earlier, this is a good target if you are struggling against it.
 
 ![kigni tribe](../images/monsters/kigni_tribe_1.png)
@@ -237,14 +239,14 @@ Old Man Tanks are dangerous because they can easily level up into much stronger 
 #### New Enemy Types
 
 ![old Man tank](../images/monsters/tank_1.png)
-**Old Man Tank** has Slow action speed (Takes 1 Action for every 2 Shiren actions),
-and has an explosive shot that hits a 3x3 around where it detonates. Its explosion
-will deal 20 damage not reduced by Shield Strength.
+**Old Man Tank** has Slow action speed (takes 1 Action for every 2 Shiren actions),
+and has an explosive shot that hits in a 3x3 square around where it detonates. The
+explosion deals 20 true damage (cannot be reduced by Shield Strength).
 
 You can lure it into a hallway and use a hit-and-run strategy against it, or you
 can stand in a tile that is an "L" position away from it (2 tiles vertically and
 1 tile horizontally, or 2 tiles horizontally and 1 tile vertically), similar to
-a Knight-move in chess. And wait for it to come to you.
+a Knight-move in chess, and wait for it to come to you.
 
 ![Gamagucchi](../images/monsters/gamara_2.png)
 **Gamagucchi** behave the same as Gamara, but will drop more money when it dies.
@@ -255,7 +257,7 @@ a Knight-move in chess. And wait for it to come to you.
 
 It's recommended to get through Waterfall Marsh as quickly as possible. The enemy
 combination here includes enemies that will reduce your level, reduce your strength,
-inflict status aliments on you, can rust your equipment. The enemies that don't
+inflict status aliments on you, and rust your equipment. The enemies that don't
 do this hit hard and are difficult to kill. Nothing in here is worth the experience.
 
 #### New Enemy Types
@@ -269,11 +271,12 @@ is reduced, his experience will be 1 away from the level he was at previously.
 
 ![Dizzy Daikon](../images/monsters/monster_daikon_2.png)
 **Dizzy Daikon** are an upgraded version of Monster Daikon. It has longer range and
-throws confusion grass in addition to poison grass.
+throws confusion herbs. If Shiren is already confused, it will throw poison herbs
+instead.
 
 ![Gedoro](../images/monsters/midoro_2.png)
 **Gedoro** are slimes that will occasionally rust Shiren's equipped swords and shields.
-They do not attack, and have a chance to multiply when they receive damage.
+They do not attack, and have a chance to multiply when they take damage.
 
 ![Saber Gator](../images/monsters/gator_2.png)
 **Saber Gators** can attack twice in a single turn.
@@ -286,43 +289,44 @@ They do not attack, and have a chance to multiply when they receive damage.
 Now that you ran as fast as you could through the last two floors, you have a breather,
 until you notice how much damage Minotaurs will crit for.
 
-The stuff in here **hurts**. But, you will be rewarded with a lot of exp. Often,
-I find I stick around Floors 17-19 until the Wind Blows, or as long as I have the
+The stuff in here **hurts,** but you will be rewarded with a lot of EXP. Often,
+I find I stick around Floors 17-19 until the wind blows, or as long as I have the
 food for it.
 
 However, Minotaur and Master Chicken hurts a lot when you first get here, especially
 if you have a bad shield (e.g. Minotaur can crit for ~80 damage if you're running
 around with a Leather Shield).
 
-You can also hunt for Fleeing Peetan, which always drop a Large Rice Ball, or Green
-Theftodo, which always drop an item.
+You can also farm Fleeing Peetan, which always drop a Large Rice Ball, and Green
+Todo, which always drop an item.
 
 Until you're strong enough to fight them unaided, great spot to use some Scrolls,
-Staves, or Dragon Herbs. If you have a Bigroom Scroll, combined with a few Airslash
-Scrolls, you can clear out the whole room for a ton of exp, and sit around for a
+Staves, or Dragon Herbs. If you have a Bigroom Scroll combined with a few Airslash
+Scrolls, you can clear out the whole room for a ton of EXP and sit around for a
 long time.
 
 #### New Enemy Types
 
 ![Minotaur](../images/monsters/tauros_1.png)
-**Minotaur** has a 25% to crit, dealing double damage. Their crit can not miss,
-when deciding your actions, you should assume that you will miss, and they will crit.
+**Minotaur** has a 25% to crit, dealing double damage. Their crit cannot miss, so
+when deciding your actions, you should assume that you will miss and they will crit.
 Dangerous, but gives a lot of EXP.
 
 ![Master Chicken](../images/monsters/chicken_2.png)
-**Master Chicken** has high attack power and it is below 16 HP, it will transform
+**Master Chicken** has high attack power. If it falls below 16 HP, it will transform
 into a Chicken. Somewhat dangerous, but gives a lot of EXP, even when demoted to
 a Chicken.
 
 ![Chicken](../images/monsters/chicken_1.png)
-**Chicken** does not attack, and it only runs away at double speed. It does not
+**Chicken** does not attack, running away from you at double speed. It does not
 spawn naturally.
 
 ![Ether Devil](../images/monsters/ether_devil.png)
-**Ether Devil** is an invisible flying-ghost enemy that is invisible. It moves similarly
-to a Pumkorepkin, and can travel and see through walls. When attacked by one while
-it is invisible, the text will read that "Someone" attacked Shiren. Ether Devils
-are the only enemy that are invisible.
+**Ether Devil** is an invisible flying ghost. It moves similarly
+to a Pumkorepkin, but cannot travel or see through walls. This is the only invisible
+enemy in the game; if you haven't revealed it with a Vision Herb, Light Scroll or
+Far-sight Bracer, it will be identified as "Someone" in the message log. Reflects
+magic from staves.
 
 ![Norojo's Big Sister](../images/monsters/norojo_2.png)
 **Norojo's Big Sister** will curse Swords and Shields.
@@ -364,18 +368,20 @@ issue fighting them.
 ![SuperGaze](../images/monsters/gaze_2.png)
 <span class="highlightDanger">**Super Gaze**</span> Very dangerous. Can hypnotize
 Shiren, causing him to take a random action. This will often use or waste a valuable
-item. This can include: eating a revival herb, removing equipment and throwing at
-it an enemy (destroying it), reading a Blank Scroll.
+item. This can include: eating a Revival Herb, removing equipment and throwing at
+it an enemy (destroying it), reading a Blank Scroll. This also wastes your turn, so
+it's not uncommon to get stunlocked by hypnosis for several turns, especially if
+multiple Super Gazes have you surrounded.
 
 ![Karakuroid](../images/monsters/karakuroid.png)
 **Karakuroid** have Swift movement, and can create traps beneath their feet.
 
 ![Chain Head](../images/monsters/iron_head_2.png)
-**Chain Head** has no special abilities. Unlike versions of this monster that appear
-in future games, their attack range is 1 tile.
+**Chain Head** has no special abilities. These have extra attack range and can
+attack around corners in future installments of the series, but not in Shiren 1.
 
 ![Flying Peetan](../images/monsters/peetan_3.png)
-**Flying Peetan** will teleport from Shiren every time he attempts to get close.
+**Flying Peetan** will teleport away from Shiren every time he attempts to get close.
 It always drops an item from a large pool, including high-value ones.
 
 ### Underground River Town
@@ -385,15 +391,16 @@ Between Floor 21 and 22.
 ### Table Mountain (23-25)
 
 Super Gaze and Chrome Armor can ruin your inventory, and Polygons can rob you of
-all your food. The things here won't kill you outright, but can make you lose your
-run.
+all your food. The enemies here aren't likely to kill you outright, but can easily
+ruin your run.
 
 #### New Enemy Types
 
 ![Fog Hermit](../images/monsters/hermit_2.png)
 **Fog Hermit** can cast a strange spell in a straight line that can go through enemies
-and obstacles. The spell will cause Shiren's HP to not recover for ~30 turns. The
-spell can stack, with multiple instances of the spell causing Shiren's HP to decrease.
+and obstacles. The spell will disable Shiren's natural HP regeneration for ~30 turns. The
+spell can stack, with multiple instances of the spell causing Shiren's HP to decrease each
+turn.
 
 ![Dancing Polygon](../images/monsters/polygon_2.png)
 **Dancing Polygon** can perform a strange dance that causes Shiren to lose 30% of
@@ -401,50 +408,55 @@ his current satiation. When it is in a room with Shiren, it will teleport to be 
 front of Shiren always. Extremely dangerous if you are lacking in food.
 
 ![Chrome Armor](../images/monsters/armor_2.png)
-**Chrome Armor** can disarm Shiren of his equipped weapon or shield and cause it
-to fly behind him about 10 tiles. If an enemy is behind Shiren, this can cause the
-equipment to hit the enemy and the equipment will be destroyed.
+**Chrome Armor** can disarm Shiren of his equipped weapon or shield, sending it flying
+behind him about 10 tiles. If an enemy is behind Shiren, this can cause the equipment to
+hit the enemy, which destroys the item.
 
 ![Pumkorepkin](../images/monsters/pumkorepkin_2.png)
 **Pumkorepkin** is the same as the earlier Pumkorepkin, but a level 2.
 
 ### Mugen Ravine (26F)
 
-You're in the final sprint. If you happen to have saved Light Scrolls, you'll find
+You're in the home stretch. If you happen to have saved Light Scrolls, you'll find
 the last few floors are more bearable.
 
-There are not many things that spawn in Mugen Ravine, unfortunately that means you'll
-have to deal with a lot of Deaths and Skeleton Archmages.
+There are not many enemy types in the monster table for the Mugen Ravine. Unfortunately,
+that means you'll have to deal with a lot of Deaths and Skeleton Archmages.
 
 If you happen to have a Blank Scroll, Skeleton Archmages are always a good target
-for Genocide Scroll, but be careful, your throw can miss. A single Skeleton Archmage
+for Genocide Scroll, but be careful as your throw can miss. A single Skeleton Archmage
 can kill your run.
 
-Death is dangerous because they always have vision of Shiren, they and they get
-to move and attack twice. You can easily be surrounded after just a few turns. Deal
-with them quickly.
+Death is dangerous because they always have vision of Shiren, and they get to move and attack
+twice per turn. You can easily be surrounded after just a few turns. Dealing with them should be
+your first priority. They can move through walls in the later floors, but not through the
+trees in the Mugen Ravine.
 
 #### New Enemy Types
 
 ![Death](../images/monsters/death_3.png)
-**Death** is a flying-ghost type enemy that has Swift Action. It can move and attack
+**Death** is a flying ghost-type enemy that has Swift Action. It can move and attack
 twice. It can also travel and see through walls similar to Pumkorepkin.
 
 ![Skeleton Archmage](../images/monsters/skeleton_mage_3.png)
 **Skeleton Archmage** can cast dangerous spells at a range, including Sleep, Level-Down,
-Rice Ball transformation, sealing. All of their spells are dangerous. If put to Sleep,
-Shiren could easily die.
+Rice Ball transformation, sealing. All of their spells are dangerous. If they cast Sleep
+on you, you will usually die; there's nothing stopping them from stunlocking you with it.
+They can only see one tile in front of them in the Mugen Ravine because the floor is
+technically composed entirely of hallways, but in the open rooms on floors 27 and 30,
+their spells have infinite range.
 
 ### The Three Trials (27-29F)
 
 More danger. Archmages still show up on 27, and Deaths show up until 29. Unlike
 the previous floor, it's very easy to get caught in a hallway with a Death hitting
-you. While everything here gives a lot of experience, its unlikely you'll need it.
+you. Skeleton Archmages are also much more dangerous on Floor 27. While everything
+here gives a lot of experience, it's unlikely you'll need it.
 
 #### New Enemy Types
 
 ![Dragon Head](../images/monsters/dragonhead_2.png)
-**Dragon Head** will pass through Shiren if there is an enemy behind them,
+**Dragon Head** will pass through Shiren if there is an enemy behind it,
 surrounding him.
 
 ![Madremlas](../images/monsters/dremlas_2.png)
@@ -456,8 +468,8 @@ have a lot of HP and defense.
 **Debucho** are similar to Debuta. It throws further and does more damage.
 
 ![Dragon](../images/monsters/dragon_1.png)
-**Dragons** have a fire-breath attack that will fire in a straight line towards Shiren.
-Straight forward and dangerous.
+**Dragons** have a fire breath attack that will fire in a straight line towards Shiren.
+Straightforward and dangerous.
 
 ### Land of the Sun
 
@@ -472,14 +484,14 @@ a monster on tablets throughout the ruined city.
 
 ![Mashoku Bug](../images/monsters/mashoku_bug.png)
 
-Mashoku Bug is the Boss of Table Mountain. While it doesn't have any special attacks
-and moves normally; it has a lot of HP and Attack. Even with a decent Shield it
+Mashoku Bug is the Boss of Table Mountain. It doesn't have any special attacks
+and moves normally, but it has a lot of HP and Attack. Even with a decent Shield, it
 can do ~100 damage a hit. Most things that work against normal Monsters will work
-against Mashoku Bug, with Bufoo staff being an exception (I wonder what it tastes
-like ...). While Decoy Staff does work, the Decoy status can be canceled by a
+against Mashoku Bug, with Bufoo Staff being an exception (I wonder what it tastes
+like...). While Decoy Staff does work, the Decoy status can be canceled by a
 Skeleton Archmage.
 
-Shiren will enter the room at a random spot, the Mashoku Bug will be at the top
+Shiren will enter the room at a random spot; the Mashoku Bug will be at the top
 of the room next to the exit. The room will also have ![Skeleton Archmage](../images/monsters/skeleton_mage_3.png)
 Skeleton Archmages ![Madremlas](../images/monsters/dremlas_2.png) Madremlas and
 rarely ![Ether Devil](../images/monsters/ether_devil.png) Ether Devils in there as
