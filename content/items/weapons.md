@@ -7,8 +7,8 @@ metaDescription: "Weapon details for Shiren the Wanderer"
 ## Overview
 
 - Increases damage Shiren deals while equipped
-- Some weapons have special abilities which can be fused with other weapons using
-  a Fusion Pot
+- Some weapons have special abilities while equipped
+- These special abilities can be fused with other weapons using a Fusion Pot
   - There is no limit to the number of abilities a weapon can have, but duplicate
     abilities will not stack
 
@@ -44,7 +44,7 @@ metaDescription: "Weapon details for Shiren the Wanderer"
       <td rowspan="2">100</td>
       <td rowspan="2">7</td>
       <td>✅</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td>❌</td>
       <td>✅</td>
       <td class="leftText">Can dig in walls (chance to break)</td>
@@ -67,7 +67,7 @@ metaDescription: "Weapon details for Shiren the Wanderer"
       <td>80</td>
       <td>8</td>
       <td>✅</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td>❌</td>
       <td>✅</td>
       <td class="leftText"></td>

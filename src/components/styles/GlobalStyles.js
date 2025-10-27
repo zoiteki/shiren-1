@@ -1786,6 +1786,10 @@ export const baseStyles = css`
     -webkit-transition: top 0.5s, bottom 0.5s;
   }
 
+  .math-display {
+    margin-right: auto;
+  }
+
   @media (max-width: 767px) {
     .formElement svg path {
       fill: #001934;

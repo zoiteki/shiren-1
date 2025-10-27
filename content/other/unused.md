@@ -6,6 +6,8 @@ metaDescription: "Various unused mechanics for Shiren the Wanderer"
 
 In development
 
+Various things things that exist in the game but are not accessible.
+
 Parthenos
 Carbunkle
 

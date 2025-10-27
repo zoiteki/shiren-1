@@ -77,7 +77,8 @@ metaDescription: "Food details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Restores 30 Satiation. If full, increases Max Satiation by 1. Also grants one positive effect.</td>
+      <td class="leftText">Restores 30 Satiation. If full, increases Max Satiation by 1. Also grants
+        one positive effect.</td>
     </tr>
   </tbody>
 </table>

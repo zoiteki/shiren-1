@@ -40,8 +40,9 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Has no special effects. Obtained through Field Raider's
-      ability. Revival Herb turns into Weeds when activated</td>
+      <td class="leftText">Has no special effects<br>
+        Obtained through Field Raider's Special Ability<br>
+        Revive Herbs turn into Weeds when activated</td>
     </tr>
     <tr>
       <td class="priceTableName">Vision Herb</td>
@@ -50,7 +51,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>✅</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Allows Shiren to see invisible Traps and Ether Devils</td>
+      <td class="leftText">Allows Shiren to see Traps and Ether Devils</td>
     </tr>
     <tr>
       <td class="priceTableName">Medical Herb</td>
@@ -59,7 +60,8 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>✅</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Recovers 25 HP. If used when HP is full, increases max HP by 1. Deals 25 damage to Ghost-type when thrown</td>
+      <td class="leftText">Recovers 25 HP; if used when HP is full increases max HP by 1. Deals 25
+        damage to Ghost-type when thrown</td>
     </tr>
     <tr>
       <td class="priceTableName">Poison Herb</td>
@@ -68,7 +70,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText"></td>
+      <td class="leftText">Become Poisoned</td>
     </tr>
     <tr>
       <td class="priceTableName">Otogiri So</td>
@@ -79,7 +81,8 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>✅</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Recovers 100 HP. If used when HP is full, increases max HP by 2. Deals 100 damage to Ghost-type when thrown</td>
+      <td class="leftText">Recovers 100 HP; if used when HP is full increases max HP by 2. Deals 100
+        damage to Ghost-type when thrown</td>
     </tr>
     <tr>
       <td class="priceTableName">Super Unlucky Seed</td>
@@ -110,7 +113,8 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>❌</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Decreases level and HP by 1. If Shiren eats it at level 1, he will gain 9 EXP</td>
+      <td class="leftText">Decreases level and HP by 1. If Shiren eats it at level 1, he will gain 9
+        EXP</td>
     </tr>
     <tr>
       <td class="priceTableName">Contraction Seed</td>
@@ -151,8 +155,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td class="leftText">Flame fire forward with ~70 power. When thrown, it deals
-      ~50 damage. Increases Flame Priest's level.</td>
+      <td class="leftText">Fire flame in a straight line with ~70 power. When thrown, it deals ~50 damage</td>
     </tr>
     <tr>
       <td class="priceTableName">Power Herb.</td>
@@ -161,8 +164,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>💰</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Increases Strength by 1. If Strength is at Max Strength,
-      also increases Max Strength by 1.</td>
+      <td class="leftText">Increases Strength by 1; if already at max, increase max Strength by 1</td>
     </tr>
       <tr>
       <td class="priceTableName">Antidote Herb</td>
@@ -172,7 +174,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>💰</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Recovers Strength to Maximum.</td>
+      <td class="leftText">Recovers Strength to max</td>
     </tr>
     </tr>
     <tr>
@@ -184,7 +186,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>💰</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Increases Maximum Satiation by 10.</td>
+      <td class="leftText">Increases max Satiation by 10</td>
     </tr>
     <tr>
       <td class="priceTableName">Happy Herb</td>
@@ -193,7 +195,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>❌</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Increases Level by 1.</td>
+      <td class="leftText">Increases Level by 1</td>
     </tr>
     <tr>
       <td class="priceTableName">Invincible Herb</td>
@@ -204,7 +206,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>💰</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Become invincible for 20 turns.</td>
+      <td class="leftText">Become invincible for 20 turns</td>
     </tr>
     <tr>
       <td class="priceTableName">Confusion Herb</td>
@@ -214,7 +216,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Causes Confusion — thrown by Dizzy Daikon.</td>
+      <td class="leftText">Become Confused</td>
     </tr>
     <tr>
       <td class="priceTableName">Sleep Herb</td>
@@ -225,7 +227,7 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Causes Sleep — thrown by Sleepy Daikon.</td>
+      <td class="leftText">Become Sleepy</td>
     </tr>
     <tr>
       <td class="priceTableName">Revival Herb</td>
@@ -234,7 +236,8 @@ metaDescription: "Herb details for Shiren the Wanderer"
       <td>❌</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">While in Shiren's Inventory, will revive him after he dies. If it is in a pot, it is ineffective. Turns into Weeds after activating.</td>
+      <td class="leftText">While in Shiren's Inventory, will revive him after he dies. Ineffective if
+        it is in a pot.</td>
     </tr>
     <tr>
       <td class="priceTableName">Angel Seed</td>
@@ -249,4 +252,3 @@ metaDescription: "Herb details for Shiren the Wanderer"
     </tr>
   </tbody>
 </table>
-

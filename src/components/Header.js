@@ -3,30 +3,12 @@ import styled from '@emotion/styled';
 import { StaticQuery, graphql } from 'gatsby';
 import GitHubButton from 'react-github-btn';
 import Link from './link';
-import Loadable from 'react-loadable';
 
 import config from '../../config.js';
 // import { DarkModeSwitch } from './DarkModeSwitch';
 import Sidebar from './sidebar';
 
 const help = require('./images/help.svg');
-
-const isSearchEnabled = config.header.search && config.header.search.enabled ? true : false;
-
-let searchIndices = [];
-
-if (isSearchEnabled && config.header.search.indexName) {
-  searchIndices.push({
-    name: `${config.header.search.indexName}`,
-    title: `Results`,
-    hitComp: `PageHit`,
-  });
-}
-
-const LoadableComponent = Loadable({
-  loader: () => import('./search/index'),
-  loading: () => <div></div>,
-});
 
 function myFunction() {
   var x = document.getElementById('navbar');
@@ -108,11 +90,6 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 dangerouslySetInnerHTML={{ __html: config.header.social }}
               ></ul>
             ) : null}
-            {isSearchEnabled ? (
-              <div className={'searchWrapper hiddenMobile navBarUL'}>
-                <LoadableComponent collapse={true} indices={searchIndices} />
-              </div>
-            ) : null}
             <div id="navbar" className={'topnav'}>
               <div className={'visibleMobile'}>
                 <Sidebar location={location} />
@@ -192,11 +169,6 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 <span className={'iconBar'}></span>
               </span>
             </div>
-            {isSearchEnabled ? (
-              <div className={'searchWrapper'}>
-                <LoadableComponent collapse={true} indices={searchIndices} />
-              </div>
-            ) : null}
           </StyledBgDiv>
         </div>
       );

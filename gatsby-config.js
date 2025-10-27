@@ -18,9 +18,6 @@ const plugins = [
         {
           resolve: `gatsby-remark-images`,
           options: {
-            // It's important to specify the maxWidth (in pixels) of
-            // the content container as this plugin uses this as the
-            // base for generating different widths of each image.
             maxWidth: 590,
           },
         },
@@ -36,6 +33,13 @@ const plugins = [
             elements: [`h1`, `h2`, `h3`, `h4`],
           },
         },
+        {
+          resolve: `gatsby-remark-katex`,
+          options: {
+            // Add any KaTeX options from https://github.com/KaTeX/KaTeX/blob/master/docs/options.md here
+            output: 'mathml'
+          }
+        }
       ],
     },
   },
@@ -45,14 +49,14 @@ const plugins = [
 
 module.exports = {
   pathPrefix: config.gatsby.pathPrefix,
-  trailingSlash: 'ignore', // Let our custom logic in gatsby-node.js handle trailing slashes
+  trailingSlash: 'ignore',
   siteMetadata: {
     title: config.siteMetadata.title,
     description: config.siteMetadata.description,
     docsLocation: config.siteMetadata.docsLocation,
     ogImage: config.siteMetadata.ogImage,
     favicon: config.siteMetadata.favicon,
-    logo: { link: config.header.logoLink ? config.header.logoLink : '/', image: config.header.logo }, // backwards compatible
+    logo: { link: config.header.logoLink ? config.header.logoLink : '/', image: config.header.logo },
     headerTitle: config.header.title,
     githubUrl: config.header.githubUrl,
     helpUrl: config.header.helpUrl,

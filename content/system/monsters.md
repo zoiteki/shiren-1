@@ -479,7 +479,7 @@ Speed:
     <td>35</td>
     <td rowspan="3">None</td>
     <td rowspan="3">High defense.<br>
-        Instant death when damaged on it's flank or back</td>
+      Instant death when damaged on it's flank or back</td>
   </tr>
   <tr>
     <td>2</td>
@@ -579,8 +579,9 @@ Speed:
     <td>32</td>
     <td>12</td>
     <td rowspan="3">None</td>
-    <td rowspan="3">Level Up with Fire<br>Multiplies from explosions<br>
-        Thrown items are ineffective</td>
+    <td rowspan="3">Level Up with Fire<br>
+      Multiplies from explosions<br>
+      Thrown items are ineffective</td>
   </tr>
   <tr>
     <td>3</td>

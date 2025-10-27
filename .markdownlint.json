@@ -2,5 +2,6 @@
     "no-inline-html": false,
     "no-duplicate-heading": false,
     "heading-increment": false,
-    "no-alt-text": false
+    "no-alt-text": false,
+    "line-length": { "line_length": 100 }
 }

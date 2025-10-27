@@ -6,12 +6,12 @@ metaDescription: "Staff details for Shiren the Wanderer"
 
 ## Overview
 
-- Swing a staff to shoot magic in the direction Shiren is facing
+- Wave a staff to shoot magic in the direction Shiren is facing
 - Staves have a number of charges
   - If you swing a staff with 0 charges, nothing happens
-- If you throw a staff and it strikes a target, the staff effect will activate
-- The number of charges on a staff is determined randomly within a range, averaging
-  around 4-5
+- If you throw a staff and it strikes a target, the staff effect will activate even if the staff has
+  0 charges
+- The number of charges on a staff is determined randomly within a range
 
 ## Staff List
 
@@ -46,8 +46,7 @@ metaDescription: "Staff details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Inflicts a random status effect: Slow, Warp, Confusion,<br>
-      Sleep</td>
+      <td class="leftText">Inflicts a random status effect: Slow, Warp, Confusion, Sleep</td>
     </tr>
     <tr>
       <td class="priceTableName">Happy Staff</td>
@@ -60,8 +59,7 @@ metaDescription: "Staff details for Shiren the Wanderer"
       <td>💰</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Raises target level by one. If used on Shiren, gives<br>
-      Shiren 500 EXP</td>
+      <td class="leftText">Raises target level by one. If used on Shiren, gives Shiren 500 EXP</td>
     </tr>
     <tr>
       <td class="priceTableName">Unlucky Staff</td>
@@ -70,7 +68,7 @@ metaDescription: "Staff details for Shiren the Wanderer"
       <td>💰</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText"></td>
+      <td class="leftText">Lowers target level by one</td>
     </tr>
     <tr>
       <td class="priceTableName">Blowback Staff</td>
@@ -123,8 +121,8 @@ metaDescription: "Staff details for Shiren the Wanderer"
       <td>💰</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Turns target into a fake Shiren. Monsters will attack
-      fake Shiren. If cast on Shiren, it will turn him into a random Monster</td>
+      <td class="leftText">Turns target into a fake Shiren. Monsters will attack fake Shiren. If cast
+        on Shiren, it will turn him into a random Monster</td>
     </tr>
     <tr>
       <td class="priceTableName">Pain-dividing Staff</td>
@@ -133,8 +131,7 @@ metaDescription: "Staff details for Shiren the Wanderer"
       <td>❌</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">When Shiren is dealt damage, the target will receive
-      that damage as well</td>
+      <td class="leftText">When Shiren is dealt damage, the target will receive that damage as well</td>
     </tr>
     <tr>
       <td class="priceTableName">Sealing Staff</td>
@@ -143,8 +140,7 @@ metaDescription: "Staff details for Shiren the Wanderer"
       <td>❌</td>
       <td>💰</td>
       <td>❌</td>
-      <td class="leftText">Seals target's special abilities. If cast on Shiren,
-      will silence Shiren</td>
+      <td class="leftText">Seals target's special abilities. If cast on Shiren, will silence Shiren</td>
     </tr>
     <tr>
       <td class="priceTableName">Bufoo's Staff</td>
@@ -155,8 +151,8 @@ metaDescription: "Staff details for Shiren the Wanderer"
       <td>✅</td>
       <td>✅</td>
       <td>❌</td>
-      <td class="leftText">Turns monster targets into Meat. If cast on Shiren, will
-      turn Shiren into a Rice Ball</td>
+      <td class="leftText">Turns monster targets into Meat. If cast on Shiren, will turn him into a
+        Rice Ball</td>
     </tr>
   <tbody>
   </tbody>

@@ -36,8 +36,8 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Arrows and thrown items will have infinite range and
-      will pierce enemies and walls.</td>
+      <td class="leftText">Arrows and thrown items will have infinite range and will pierce enemies
+        and walls.</td>
     </tr>
     <tr>
       <td class="priceTableName">Blessing Bracer</td>
@@ -47,7 +47,7 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Prevents curses</td>
+      <td class="leftText">Prevents Curse</td>
     </tr>
     <tr>
       <td class="priceTableName">Clear Mind Bracer</td>
@@ -63,7 +63,7 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Prevents Rust from Rust Trap & Gedoro</td>
+      <td class="leftText">Prevents Rust from Rust Trap & Midoro</td>
     </tr>
     <tr>
       <td class="priceTableName">Passage Bracer</td>
@@ -71,8 +71,8 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Secret rooms, hidden passages, and destructible pillars
-      collapse naturally when Shiren walks next to them.</td>
+      <td class="leftText">Secret rooms, hidden passages, and destructible pillars collapse naturally
+        when Shiren walks next to them</td>
     </tr>
     <tr>
       <td class="priceTableName">Levelholder Bracer</td>
@@ -80,8 +80,8 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Shiren's level will not change. EXP will increase, and when
-      removed, the level will adjust to match.</td>
+      <td class="leftText">Shiren's level will not change. EXP will increase, and when removed, the
+        level will adjust to match</td>
     </tr>
     <tr>
       <td class="priceTableName">Clumsiness Bracer</td>
@@ -99,8 +99,7 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">You can see the location of Monsters & NPCs, and Items
-      on the Map</td>
+      <td class="leftText">You can see the location of Monsters & NPCs, and Items on the Map</td>
     </tr>
     <tr>
       <td class="priceTableName">Healing Bracer</td>
@@ -110,7 +109,7 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Recover 5 HP per turn, but reduce Satiation twice as fast.</td>
+      <td class="leftText">Recover 5 HP per turn, but reduce Satiation twice as fast</td>
     </tr>
     <tr>
       <td class="priceTableName">Trapper bracer</td>
@@ -118,9 +117,8 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>⭐</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">
-      Reveals Traps to Shiren. Monsters & NPCs will activate
-      traps, but Shiren will avoid them.<br>Only found on on floors 51 and above.</td>
+      <td class="leftText">Reveals Traps to Shiren. Monsters & NPCs will activate traps, but Shiren
+        will avoid them<br>Only found on on floors 51 and above</td>
     </tr>
     <tr>
       <td class="priceTableName">Happy Bracer</td>
@@ -130,7 +128,7 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Increase EXP by 1 per turn.</td>
+      <td class="leftText">Increase EXP by 1 per turn</td>
     </tr>
     <tr>
       <td class="priceTableName">Bargain Bracer</td>
@@ -138,8 +136,7 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">If you reject the Shop Keeper's first offer, he will
-      give you a 50% discount.</td>
+      <td class="leftText">If you reject the Shop Keeper's first offer, he will give you a 50% discount</td>
     </tr>
     <tr>
       <td class="priceTableName">Critical Bracer</td>
@@ -165,21 +162,7 @@ metaDescription: "Bracer Details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>💰</td>
-      <td class="leftText">Identifies items when picked up. Only found on on floors
-      51 and above.</td>
+      <td class="leftText">Identifies items when picked up. Only found on on floors 51 and above</td>
     </tr>
   </tbody>
 </table>
-
-### Appearance Legend
-
-🗻: Table Mountain  
-📜: Wall Scroll Cave  
-🍖: Food God Shrine  
-Fei: Fei's Final Problem
-
-✅: Dropped on Floor, Dropped by Monsters, Sold in Stores, or dropped by Flying
-Peetan.  
-❌: Not available  
-💰: Sold in Stores, or dropped by Flying Peetan.  
-⭐: Starting Item

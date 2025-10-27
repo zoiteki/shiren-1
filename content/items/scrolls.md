@@ -34,10 +34,9 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>✅</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">
-      Monsters on the floor will disappear, and the current
-      room will become a Monster House, spawning new monsters and items. If read
-      in a corridor or shop, you will be teleported to a Monster House.
+      <td class="leftText"> Monsters on the floor will disappear, and the current room will become a
+        Monster House, spawning new monsters and items. If read in a corridor or shop, you will be to
+        a Monster House.
       </td>
     </tr>
     <tr>
@@ -55,7 +54,7 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">Existing monsters on the floor will move at Double Speed</td>
     </tr>
     <tr>
@@ -66,14 +65,15 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td class="leftText">Monsters and NPCs in the same room will sleep for 20 turns. When they wake, they will move at Double Speed</td>
+      <td class="leftText">Monsters and NPCs in the same room will sleep for 20 turns. When they wake,
+      they will move at Double Speed</td>
     </tr>
     <tr>
       <td class="priceTableName">Lost Scroll</td>
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">Becomes lost and forgets the current map</td>
     </tr>
     <tr>
@@ -101,7 +101,7 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">Hands become slippery and cannot pick up items for the remainder of the floor</td>
     </tr>
     <tr>
@@ -130,7 +130,7 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">Silences Shiren and he cannot use his mouth</td>
     </tr>
     <tr>
@@ -175,7 +175,7 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>✅</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">Heals Shiren to full HP and provides 1 conditional benefit</td>
     </tr>
     <tr>
@@ -239,7 +239,8 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>💰</td>
-      <td class="leftText">Throw at a monster to destroy all instances of that monster, and it's family. They will not show up in future floors. Only monster family c</td>
+      <td class="leftText">Throw at a monster to destroy all instances of that monster, and it's family.
+        They will not show up in future floors. Only monster family c</td>
     </tr>
     <tr>
       <td class="priceTableName">Haven Scroll</td>
@@ -250,7 +251,8 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td class="leftText">Only obtainable via Blank Scroll<br>
-      Place on the ground to prevent most monsters from attacking. Will not protect against projectile attacks.</td>
+      Place on the ground to prevent most monsters from attacking. Will not protect against projectile
+        attacks.</td>
     </tr>
     <tr>
       <td class="priceTableName">Massacre Scroll</td>
@@ -261,7 +263,8 @@ metaDescription: "Scroll List for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td class="leftText">Only obtainable via Blank Scroll<br>
-      Eliminates all monsters and NPCs in the current room. You must first clear Table Mountain without using the warehouse.</td>
+      Eliminates all monsters and NPCs in the current room. You must first clear Table Mountain without
+        using the warehouse.</td>
     </tr>
   </tbody>
 </table>

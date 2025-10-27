@@ -1,7 +1,6 @@
 import React from 'react';
 
 // import Link from './link';
-import config from '../../config';
 import { Sidebar, ListItem } from './styles/Sidebar';
 
 const SidebarLayout = ({ location, tableOfContents, allowedDepths = [1, 2, 3] }) => {

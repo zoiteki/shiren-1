@@ -6,6 +6,9 @@ import NextPrevious from '../components/NextPrevious'
 import config from '../../config'
 import { Edit, StyledHeading, StyledMainWrapper } from '../components/styles/Docs'
 
+require(`katex/dist/katex.min.css`)
+
+
 const MarkdownPageTemplate = ({ data, location }) => {
   const { markdownRemark, allMarkdownRemark, site } = data
   const { frontmatter, html } = markdownRemark
@@ -14,7 +17,7 @@ const MarkdownPageTemplate = ({ data, location }) => {
   const allNodes = allMarkdownRemark.edges.map(({ node }) => node)
 
   const githubIcon = require('../components/images/github.svg').default
-  const { siteMetadata: { docsLocation, title } } = site
+  const { siteMetadata: { docsLocation } } = site
 
   // Build navigation like in docs.js
   const forcedNavOrder = config.sidebar.forcedNavOrder

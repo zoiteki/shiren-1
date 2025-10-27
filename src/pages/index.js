@@ -1,24 +1,8 @@
 import * as React from "react";
-import { Link, useStaticQuery, graphql } from "gatsby";
+import { useStaticQuery, graphql } from "gatsby";
 import { Layout } from '../components';
 import { StyledHeading, StyledMainWrapper } from '../components/styles/Docs';
 
-const pageStyles = {
-  maxWidth: "800px",
-  margin: "0 auto",
-};
-
-const navStyles = {
-  marginBottom: "2rem",
-};
-
-const linkStyles = {
-  color: "#8954A8",
-  textDecoration: "none",
-  display: "block",
-  padding: "0.5rem 0",
-  borderBottom: "1px solid #eee",
-};
 
 const IndexPage = ({ location }) => {
   const data = useStaticQuery(graphql`
@@ -43,9 +27,8 @@ const IndexPage = ({ location }) => {
     }
   `);
 
-  const { indexMarkdown, allMarkdownRemark } = data;
-  const pages = allMarkdownRemark.nodes;
-
+  const { indexMarkdown } = data;
+  
   return (
     <Layout location={location} tableOfContents={null}>
       <div className={'titleWrapper'}>

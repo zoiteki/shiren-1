@@ -8,8 +8,10 @@ metaDescription: "Shield details for Shiren the Wanderer"
 ## Overview
 
 - Shields reduce the amount of damage you receive from enemy attacks.
-- Some shields have innate special abilities, which can be melded into other shields.
-  - Unlike Shiren 5, shields don't have limited slots for melded abilities.
+- Some shields have special abilities while equipped
+- These special abilities can be fused with other shields using a Fusion Pot
+  - There is no limit to the number of abilities a shields can have, but duplicate
+    abilities will not stack
 
 ## Shield List
 

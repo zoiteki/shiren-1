@@ -9,14 +9,13 @@ metaDescription: "Trap details for Shiren the Wanderer."
 
 - Traps are found on the ground and activate when stepped on.
 - Naturally spawning traps only exist in rooms
-  - Naturally spawning traps may can be in the corridors of mazes are those are
-    considered rooms
+  - Naturally spawning traps may can be in the corridors of mazes are those are considered rooms
   - Naturally spawning traps may not be inside a wall, or where a wall used to be
   - Karakuroid may create traps in hallways
   - Traps cannot be created inside a shop, even after reading a Bigroom scroll
   - They generally apply a negative effect, but some can be utilized to your advantage.
-- Traps are normally hidden, and are revealed when you step on them or do a direct
-  attack above them.
+- Traps are normally hidden, and are revealed when you step on them or do a direct attack above
+  them.
   - They become visible if you eat Herb of Sight or have Trap Master status.
   - Springs needed to escape rooms without hallways are always visible.
   <!-- TODO: Confirm translation? Make sure this is understood -->
@@ -47,14 +46,13 @@ metaDescription: "Trap details for Shiren the Wanderer."
   make it difficult to proceed
   - You may use a Pickaxe to avoid these traps
 - Items may not be dropped onto a trap, whether it is visible or invisible
-- When equipped with the Trapper Bracer, Shiren will not activate traps, but monsters
-  will instead
-  - Certain monsters will not activate traps, ghost types, Dragon Heads, and Dark
-    Owls will not trigger traps
-  - If an enemy with 2 Actions per turn steps onto a trap on their first turn, they
-    will not take a second turn
-- If you step on a throw trap such as an Arrow trap, it will pass through monsters
-  and always hit the character who triggered the trap
+- When equipped with the Trapper Bracer, Shiren will not activate traps, but monsters will instead
+  - Certain monsters will not activate traps, ghost types, Dragon Heads, and Dark Owls will not
+    trigger traps
+  - If an enemy with 2 Actions per turn steps onto a trap on their first turn, they will not take a
+    second turn
+- If you step on a throw trap such as an Arrow trap, it will pass through monsters and always hit
+  the character who triggered the trap
 
 ## Trap List
 
@@ -109,31 +107,26 @@ How to read the trap list
       <td>Alarm</td>
       <td>❌</td>
       <!-- TODO: define this status -->
-      <td>Lightly sleeping monster and paralyzed monsters
-        are woken up on the floor.</td>
-      <td>Lightly sleeping monster and paralyzed monsters
-        are woken up on the floor.</td>
+      <td>Lightly sleeping monster and paralyzed monsters are woken up on the floor.</td>
+      <td>Lightly sleeping monster and paralyzed monsters are woken up on the floor.</td>
     </tr>
     <tr>
       <td>Summoning</td>
       <td>❌</td>
-      <td>Summons up to 4 monsters that appear on this floor
-        around the trap</td>
+      <td>Summons up to 4 monsters that appear on this floor around the trap</td>
       <td>Summon 4 monsters of the same type around the trap</td>
     </tr>
     <tr>
       <td>Trap</td>
       <td>❌</td>
-      <td>Traps will spawn throughout the floor,
-        the trap underneath you will not change</td>
+      <td>Traps will spawn throughout the floor, the trap underneath you will not change</td>
       <td>Traps will spawn throughout the floor.
         There is a chance it will spawn a trap underneath you</td>
     </tr>
     <tr>
       <td>Pitfall</td>
       <td>❌</td>
-      <td>Deal 7-8 damage (reduced by defense) and move to
-        the next Floor.
+      <td>Deal 7-8 damage (reduced by defense) and move to the next Floor.
         If there is no floor below, only damage is dealt</td>
       <td>Instant death</td>
     </tr>
@@ -146,17 +139,14 @@ How to read the trap list
     <tr>
       <td>Reinforced Spring</td>
       <td>❌</td>
-      <td>Same as above, but activates 100% of the time,
-        and when Shiren is wearing the trapper bracer</td>
+      <td>Same as above, but activates 100% of the time, and when Shiren is wearing the trapper bracer</td>
       <td>Monsters will not step on this special trap</td>
     </tr>
     <tr>
       <td>Log</td>
       <td>✅</td>
-      <td>Knocked back ~10 squares in the opposing direction,
-        deals 5 damage</td>
-      <td>Knocked back ~10 squares in the opposing direction,
-        deals 5 damage</td>
+      <td>Knocked back ~10 squares in the opposing direction, deals 5 damage</td>
+      <td>Knocked back ~10 squares in the opposing direction, deals 5 damage</td>
     </tr>
     <tr>
       <td>Tiger</td>
@@ -192,8 +182,7 @@ How to read the trap list
       <td>Hunger</td>
       <td>❌</td>
       <td>Satiation decreased by 10%</td>
-      <td>
-        Instant Death<br>
+      <td>Instant Death<br>
         Level up to Polygons
       </td>
     </tr>
@@ -201,8 +190,7 @@ How to read the trap list
       <td>Poison Arrow</td>
       <td>✅</td>
       <td>Deals 7\~8 damage & Strength is reduced by 1</td>
-      <td>
-        Deals 26~30(?) damage<br>
+      <td>Deals 26~30(?) damage<br>
         Does nothing to Flame Priests<br>
         Instant death to Face-first Warriors
       </td>
@@ -210,13 +198,10 @@ How to read the trap list
       <tr>
       <td>Landmine</td>
       <td>❌</td>
-      <td>
-        Explodes, hitting the 8 tiles surrounding it and
-        reducing Shiren's HP by half. If Shiren has 1 HP,
-        he dies
+      <td>Explodes, hitting the 8 tiles surrounding it and reducing Shiren's HP by half. If Shiren has
+        1 HP, he dies
       </td>
-      <td>
-        Instant Death<br>
+      <td>Instant Death<br>
         Turns Chickens into Meat<br>
         Splits a Flame Priest into 2
       </td>
@@ -224,11 +209,9 @@ How to read the trap list
       <tr>
       <td>Landmine</td>
       <td>❌</td>
-      <td>Explodes, hitting the 8 tiles surrounding it and
-        reducing Shiren's HP to 1. Even if Shiren steps on
-        it with 1 HP, he will not die</td>
-      <td>
-        Instant Death<br>
+      <td>Explodes, hitting the 8 tiles surrounding it and reducing Shiren's HP to 1. Even if Shiren
+        steps on it with 1 HP, he will not die</td>
+      <td>Instant Death<br>
         Turns Chickens into Meat<br>
         Splits a Flame Priest into 2
       </td>

@@ -8,8 +8,8 @@ metaDescription: "Pot details for Shiren the Wanderer"
 
 - Items can be inserted into most pots, and an effect happens when inserted
   - Some pots are "Push pots", which has an effect when using the Push command
-- Pots have a number of charges, dictating the number of Items that can be inserted,
-  or the number of uses
+- Pots have a number of charges, dictating the number of Items that can be inserted, or the number
+  of uses
 - With the exception of Holding Pot, items cannot be removed once inserted
   - A Pot can be thrown to break it to scatter the contents on the ground
   - A Withdraw Scroll can be used on a Pot to scatter the contents on the ground
@@ -17,8 +17,8 @@ metaDescription: "Pot details for Shiren the Wanderer"
 - Rice Balls inside Pots cannot be spoiled.
 - Revive Herbs inside Pots do not get used when Shiren dies
 - Some pots have an effect when broken
-- The Buy/Sell price of pots is based on if the Pot has [0] Uses, with the modifier
-  adding to the price for each remaining use
+- The Buy/Sell price of pots is based on if the Pot has [0] Uses, with the modifier adding to the
+  price for each remaining use
 
 ## Pot List
 
@@ -52,8 +52,8 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>💰</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Shiren hides in the pot for 20 turns and cannot be found
-      by monsters. If thrown at a monster, it will trap the monster</td>
+      <td class="leftText">Shiren hides in the pot for 20 turns and cannot be found by monsters. If
+        thrown at a monster, it will trap the monster</td>
     </tr>
     <tr>
       <td class="priceTableName">Holding Pot</td>
@@ -147,7 +147,7 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">Explodes when broken</td>
     </tr>
     <tr>
@@ -155,7 +155,7 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">No special effects</td>
     </tr>
     <tr>
@@ -165,7 +165,7 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">Even when thrown, this pot does not break</td>
     </tr>
     <tr>
@@ -176,8 +176,8 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>✅</td>
-      <td class="leftText">Weapons, Shields, and Staves will be strengthened by
-      1 point for each floor you travel.</td>
+      <td class="leftText">Weapons, Shields, and Staves will be strengthened by 1 point for each floor
+        you travel.</td>
     </tr>
     <tr>
       <td class="priceTableName">Gaibara Pot</td>
@@ -188,7 +188,7 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>❌</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td class="leftText">No special effects</td>
     </tr>
     <tr class="highlightLightblue">
@@ -201,8 +201,8 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>❌</td>
       <td>✅</td>
       <td>✅</td>
-      <td class="leftText">When pressed this pot will restore HP, and Strength and
-      restore Shiren from some status effects</td>
+      <td class="leftText">When pressed this pot will restore HP, and Strength and restore Shiren from
+        some status effects</td>
     </tr>
     <tr class="highlightLightblue">
       <td class="priceTableName">Todo Pot</td>
@@ -210,13 +210,12 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>160</td>
       <td>600</td>
       <td>60</td>
-      <td>🟡</td>
+      <td>🔵</td>
       <td>❌</td>
       <td>❌</td>
-      <td>🟡</td>
-      <td class="leftText">When pressed, a Theftodo will shoot out in a straight
-      line and grab 1 item it touches and places it into the pot. If broken or Withdrawn,
-      a number of Theftodos will appear.</td>
+      <td>🔵</td>
+      <td class="leftText">When pressed, a Theftodo will shoot out in a straight line and grab 1 item
+        it touches and places it into the pot. If broken or Withdrawn, a number of Theftodos will appear.</td>
     </tr>
     <tr class="highlightLightblue">
       <td class="priceTableName">Monster Pot</td>
@@ -228,8 +227,8 @@ metaDescription: "Pot details for Shiren the Wanderer"
       <td>❌</td>
       <td>✅</td>
       <td>✅</td>
-      <td class="leftText">When pressed, monsters that spawn on the current floor
-      will appear equal to the size of the Pot. If the Pot breaks, they will be confused.</td>
+      <td class="leftText">When pressed, monsters that spawn on the current floor will appear equal
+        to the size of the Pot. If the Pot breaks, they will be confused.</td>
     </tr>
   </tbody>
 </table>

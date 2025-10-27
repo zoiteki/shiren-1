@@ -6,9 +6,9 @@ metaDescription: "Differences between the SFC version and other versions of Shir
 
 // In Development
 
-This guide specifically covers information for Mystery Dungeon 2: Shiren the Wanderer
-for the Super Famicom. There are pretty significant differences between the two,
-and there wasn't an English resource available.
+This guide specifically covers information for Mystery Dungeon 2: Shiren the Wanderer for the Super
+Famicom. There are pretty significant differences between the two, and there wasn't an English
+resource available.
 
 ## List of Known Differences
 
@@ -27,30 +27,28 @@ The DS version added new dungeons
 
 #### Changes to existing Monsters
 
-Existing monster types have been altered. Different HP, Attack, Defense, EXP rewards
-for most monsters
+Existing monster types have been altered. Different HP, Attack, Defense, EXP rewards for most
+monsters
 
-One frustrating example is the ![Chicken](../images/monsters/chicken_1.png) Chicken
-awards only 1 experience instead of 200, making attempts at defeating a ![Master
-Chicken](../images/monsters/chicken_2.png) Master Chicken usually result in getting
-no reward.
+One frustrating example is the ![Chicken](../images/monsters/chicken_1.png) Chicken awards only 1
+experience instead of 200, making attempts at defeating a ![Master
+Chicken](../images/monsters/chicken_2.png) Master Chicken usually result in getting no reward.
 
 #### Changes to existing Dungeons
 
-While the existing dungeons have the same flow (e.g. Table Mountain is still 30
-Floors), the Monster table and Item Table for the dungeon has been altered. Not
-only have the new enemies been added in, but shuffled around existing enemies.
+While the existing dungeons have the same flow (e.g. Table Mountain is still 30 Floors), the Monster
+table and Item Table for the dungeon has been altered. Not only have the new enemies been added in,
+but shuffled around existing enemies.
 
 #### Damage Calculations
 
-The damage Calculations are different. In terms of calculating damage on a 0 defense
-target, the games seem to be roughly equivalent.
+The damage Calculations are different. In terms of calculating damage on a 0 defense target, the
+games seem to be roughly equivalent.
 
-In Shiren SFC, Defense / Shield Strength had an exponential relationship with the
-damage  
+In Shiren SFC, Defense / Shield Strength had an exponential relationship with the damage  
 DMG = ATK*(15/16)^DEF
 
-In Shiren DS, it **feels** less pronounced, almost linear (I don't have extensive
-knowledge so I'm not sure).
+In Shiren DS, it **feels** less pronounced, almost linear (I don't have extensive knowledge so I'm
+not sure).
 
 #### New Items

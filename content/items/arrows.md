@@ -6,7 +6,9 @@ metaDescription: "Arrow Details for Shiren the Wanderer"
 
 ## Overview
 
-- Projectiles are used to attack enemies from a distance.
+- Projectiles are used to attack enemies from a distance
+- Arrows can be equipped and fired with the L button
+- Arrows can also be fired from the menu without being equipped
 
 ## Arrow List
 
@@ -14,6 +16,7 @@ metaDescription: "Arrow Details for Shiren the Wanderer"
   <thead>
     <tr>
       <th rowspan="2">Name</th>
+      <th rowspan="2">Attack</th>
       <th colspan="2">Price</th>
       <th colspan="5">Appearance</th>
       <th rowspan="2">Notes</th>
@@ -31,6 +34,7 @@ metaDescription: "Arrow Details for Shiren the Wanderer"
   <tbody>
     <tr>
       <td class="priceTableName">Wood Arrow</td>
+      <td>5</td>
       <td>10</td>
       <td>2</td>
       <td>✅</td>
@@ -42,6 +46,7 @@ metaDescription: "Arrow Details for Shiren the Wanderer"
     </tr>
     <tr>
       <td class="priceTableName">Iron Arrow</td>
+      <td>12</td>
       <td>40</td>
       <td>10</td>
       <td>❌</td>
@@ -49,11 +54,12 @@ metaDescription: "Arrow Details for Shiren the Wanderer"
       <td>❌</td>
       <td>💰</td>
       <td>✅</td>
-      <td class="leftText">High attack power. Available on Floor 16 and up. Farmable
-      from Cross bowya and Kid Tank</td>
+      <td class="leftText">Available on Floor 16 and up. Farmable from Cross bowya
+      and Kid Tank</td>
     </tr>
     <tr>
       <td class="priceTableName">Silver Arrow</td>
+      <td>10</td>
       <td>80</td>
       <td>20</td>
       <td>❌</td>
